@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Secure Application</string>
+    <string name="secure_application">Secure Application</string>
+    <string name="login">Authenticate</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email ex : johncs20@mail.com</string>
+    <string name="login_b">LOGIN</string>
+    <string name="need_an_account">Need an Account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="submit">submit</string>
+    <string name="full_name">Name ex: John</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_free_account">Create Free Account</string>
+    <string name="already_have_account_click_here">Already have account ? Click Here</string>
+    <string name="userprofile">User Profile</string>
+    <string name="logout">LOGOUT</string>
+    <string name="loading">Loading...</string>
+    <string name="mail">Email</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_your_email">Enter Your Email.</string>
+    <string name="back">Back</string>
+    <string name="send">Send</string>
+    <string name="you_have_only_few_attempts_left">You have only few attempts left</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_phone">Your Phone Number</string>
+    <string name="user_profile_picture">User Profile Picture</string>
+    <string name="name">Name :</string>
+    <string name="user_email">Email :</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="phone_number">Phone Number</string>
+</resources>

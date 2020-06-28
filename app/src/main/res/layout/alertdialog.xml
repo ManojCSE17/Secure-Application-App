@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/alertdial"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/aldrich"
+        android:text="@android:string/dialog_alert_title"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/alert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="20dp"
+        android:fontFamily="@font/aldrich"
+        android:text="@string/you_have_only_few_attempts_left"
+        android:textSize="18sp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="20dp" />
+
+    <Button
+        android:id="@+id/ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/button"
+        android:text="@android:string/ok"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+</LinearLayout>
